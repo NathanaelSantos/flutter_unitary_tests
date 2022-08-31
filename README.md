@@ -17,3 +17,7 @@ With Flutter:
 
 <img src="img/Screenshot.png" />
 
+## Test Reporter
+
+<img src="img/TestReporter.png" />
+
